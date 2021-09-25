@@ -1,9 +1,7 @@
 
-# Portfolio Webpage
+# Proxy Reselling Discord Bot(s)
 
-> My personal portfolio webpage (under development).
-
-Webpage I use to show my work and selling my services. The webpage until now is a very basic combination of both HTML and CSS but it will continue to improve over time .
+Run files of different Discord bots used for proxy reselling.
 
 ## Built With
 
